@@ -21,7 +21,7 @@ $ export OUTPUT_PATH='/data'
 There is one functions in this package:
 
 `create_map(csv_path:str,output_path:str)` \
-for . We can get 
+for create_map() We can get OUT_PATH as return, and a figure with State locations and their number of stores
 
 
 You can `test` the package to get an overview of these functions and corresponding parameters:
